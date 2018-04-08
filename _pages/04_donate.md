@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-permalink: /donate/
+permalink: donate/
 ---
 
 If you would like to give me your monies, you can do so with the below information.
