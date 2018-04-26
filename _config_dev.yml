@@ -2,7 +2,7 @@
 title: The Indie Wolf
 email: therealindependentwolf@gmail.com
 description: >
-baseurl: "/theindependentwolf/"
+baseurl: "/theindependentwolf"
 url: "http://localhost:4000"
 twitter_username: trasol7
 github_username:  theindependentwolf
