@@ -13,7 +13,7 @@ h4{
 Java, Python, C, BASH Shell
 <br><br>
 <h4>Web</h4>
-HTML, CSS, Bootstrap, JavaScript, jQuery, Basic Angular and React, PHP, Wordpress, Jekyl
+HTML, CSS, Bootstrap, JavaScript, jQuery, D3js, Basic Angular and React, PHP, Wordpress, Jekyl
 <br><br>
 <h4>Web Frameworks</h4>
 Flask, Django, Spring, Struts 2, Spring Boot
